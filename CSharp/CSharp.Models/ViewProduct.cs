@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace CSharp.Models
 {
-    public partial class Product
+    public class ViewProduct
     {
+        public string Title { get; set; }
+
+        public long Count { get; set; }
 
     }
 }

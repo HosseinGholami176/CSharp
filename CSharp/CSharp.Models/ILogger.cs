@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharp.Models
 {
-    public partial class Product
+    class ILogger
     {
-
     }
 }
